@@ -1,0 +1,15 @@
+# DE
+# 德国 Telekom 分流
+DOMAIN-SUFFIX,telekom.de
+# 德国银行 Fintech
+DOMAIN-SUFFIX,n26.com
+DOMAIN-SUFFIX,tech26.de
+DOMAIN-SUFFIX,c24.de
+DOMAIN-SUFFIX,curve.app
+DOMAIN-SUFFIX,vivid.money
+DOMAIN-KEYWORD,sardine
+DOMAIN-KEYWORD,siftscience
+DOMAIN-KEYWORD,westernunion
+DOMAIN-KEYWORD,bunq
+DOMAIN-KEYWORD,curve
+DOMAIN-KEYWORD,bonify
